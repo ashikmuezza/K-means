@@ -1,5 +1,5 @@
 # K-means
-K-Means algorithm using python code to cluster data into different clusters using only the column "continent" as a feature.
+K-Means algorithm using numpy python code to cluster data into different clusters using only the column "continent" as a feature.
 
 
 
